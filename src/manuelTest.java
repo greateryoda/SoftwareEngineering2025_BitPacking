@@ -16,10 +16,10 @@ class manuelTest{
 
     //creation of a new array
     public static int[] createArray(Scanner scanner) {
-        System.out.println("Enter the length of your array (line per line):");
+        System.out.println("Enter the length of your array");
         int length = scanner.nextInt();
         int[] arr = new int[length];
-        System.out.println("Enter " + length + " integers:");
+        System.out.println("Enter " + length + " integers (line per line):");
         for (int i = 0; i < length; i++) {
             arr[i] = scanner.nextInt();
         }
