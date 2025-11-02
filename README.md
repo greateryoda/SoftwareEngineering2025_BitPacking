@@ -8,7 +8,7 @@ Bit Packing Compression Project for Université Côte d’Azur
 
 
 
-**File Descriptions**
+## File Descriptions
 1) BitPacking.java
 Defines the base class for all compression types.
 Includes the compression interface and a simple factory method.
