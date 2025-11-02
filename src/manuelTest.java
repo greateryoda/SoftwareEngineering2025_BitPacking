@@ -16,7 +16,7 @@ class manuelTest{
 
     //creation of a new array
     public static int[] createArray(Scanner scanner) {
-        System.out.println("Enter the length of your array:");
+        System.out.println("Enter the length of your array (line per line):");
         int length = scanner.nextInt();
         int[] arr = new int[length];
         System.out.println("Enter " + length + " integers:");
