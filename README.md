@@ -36,11 +36,16 @@ The user can enter array data, select a compression method, and view the compres
 
 ## Compilation and Execution
 **Compile everything into a /bin directory**
+
 javac -d bin src/*.java
 
+
 **Run manual testing**
+
 java -cp bin manuelTest
 
+
 **Run benchmarks**
+
 java -cp bin Benchmark
 
