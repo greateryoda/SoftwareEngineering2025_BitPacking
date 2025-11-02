@@ -3,6 +3,7 @@ Bit Packing Compression Project for Université Côte d’Azur
 
 
 **Author Name:** Yunus Emre
+
 **Author Name:** Dogan
 
 
